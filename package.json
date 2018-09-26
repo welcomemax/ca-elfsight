@@ -1,0 +1,19 @@
+{
+  "name": "ca-elfsight",
+  "version": "0.1.0",
+  "description": "Chrome App for Elfsight Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welcomemax/ca-elfsight.git"
+  },
+  "author": "Isaev Maxim (@welcomemax)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welcomemax/ca-elfsight/issues"
+  },
+  "homepage": "https://github.com/welcomemax/ca-elfsight#readme"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Elfsight Apps",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "Simple webview for Elfsight Apps",
+
+  "icons": {
+    "16": "icon16.png",
+    "128": "icon128.png"
+  },
+
+  "permissions": [
+    "webview",
+    "fullscreen"
+  ],
+
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }
+}
